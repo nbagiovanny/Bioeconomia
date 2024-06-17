@@ -2,7 +2,7 @@
 background-color: var(--cor-de-fundo-cabecalho);
 color:white;
 display:flex;
-justify-content:end;
+justify-content:space-between;
 }
 
 .cabecalho--menu-hamburguer{
