@@ -11,10 +11,15 @@ body{
 background-color: var(--cor-de-fundo);
 }
 .conteudo1{
+    position: relative;
     background-color: #2B0C0C;
     width: 261px;
     height: 225px;
 }
 .conteudo1 p{
     color: #FFFFFF;
+}
+.conteudo1 img{
+    position: absolute;
+    top: 300px;
 }
