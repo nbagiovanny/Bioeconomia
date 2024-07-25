@@ -21,5 +21,6 @@ background-color: var(--cor-de-fundo);
 }
 .conteudo1 img{
     position: absolute;
-    left: 100px;
+    left: 200px;
+    bottom: 150px;
 }
