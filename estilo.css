@@ -13,8 +13,10 @@ background-color: var(--cor-de-fundo);
 .conteudo1{
     position: relative;
     background-color: #2B0C0C;
-    width: 261px;
-    height: 225px;
+    width: 245px;
+    height: 165px;
+    margin-left: 45px;
+    line-height:20px ;
 }
 .conteudo1 p{
     color: #FFFFFF;
@@ -22,5 +24,5 @@ background-color: var(--cor-de-fundo);
 .conteudo1 img{
     position: absolute;
     left: 200px;
-    bottom: 150px;
+    bottom: 120px;
 }
