@@ -26,3 +26,8 @@ background-color: var(--cor-de-fundo);
     left: 200px;
     bottom: 120px;
 }
+.conteudo2{
+    background-color: black;
+    width: 273;
+    height: 201;
+}
