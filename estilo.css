@@ -48,14 +48,14 @@ background-color: var(--cor-de-fundo);
     position: relative;
     background-color: #4E1F0B;
     width: 273px;
-    height: 220px;
+    height: 200px;
     margin-left: 12px;
-    line-height: 20px;
+    line-height: 15px;
 }
 .conteudo3 img{
     position: absolute;
-    left: 235px;
-    bottom: 185px;
+    left: 225px;
+    bottom: 160px;
 }
 .conteudo3 p{
     color: white;
