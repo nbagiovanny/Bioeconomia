@@ -33,7 +33,7 @@ background-color: var(--cor-de-fundo);
     width: 273px;
     height: 201;
     margin-left: 124px;
-    line-height: 10px;
+    line-height: 20px;
 }
 .conteudo2 img{
     position: absolute;
