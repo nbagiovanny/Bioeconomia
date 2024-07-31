@@ -33,4 +33,5 @@ background-color: var(--cor-de-fundo);
     width: 273;
     height: 201;
     margin-left: 124px;
+    line-height: 10;
 }
