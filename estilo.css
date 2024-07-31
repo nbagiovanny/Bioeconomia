@@ -42,7 +42,7 @@ background-color: var(--cor-de-fundo);
 }
 .conteudo2 p{
     color: white;
-    padding: 50px 10px;
+    padding: 40px 5px;
 }
 .conteudo3{
     position: relative;
@@ -56,4 +56,8 @@ background-color: var(--cor-de-fundo);
     position: absolute;
     left: 513px;
     bottom: 50px;
+}
+.conteudo3 p{
+    color: white;
+    padding: 40px 5px;
 }
