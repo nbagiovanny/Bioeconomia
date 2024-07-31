@@ -54,6 +54,6 @@ background-color: var(--cor-de-fundo);
 }
 .conteudo3 img{
     position: absolute;
-    left: 513;
-    bottom: 50;
+    left: 513px;
+    bottom: 50px;
 }
