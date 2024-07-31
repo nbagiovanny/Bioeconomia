@@ -30,9 +30,10 @@ background-color: var(--cor-de-fundo);
 .conteudo2{
     position: relative;
     background-color: black;
+    width: 273px;
+    height: 201;
     margin-left: 124px;
     line-height: 10px;
-    line-height: 20px;
 }
 .conteudo2 img{
     position: absolute;
@@ -42,4 +43,12 @@ background-color: var(--cor-de-fundo);
 .conteudo2 p{
     color: white;
     padding: 50px 10px;
+}
+.conteudo3{
+    position: relative;
+    background-color: #4E1F0B;
+    width: 273px;
+    height: 200px;
+    margin-left: 12px;
+    line-height: 2px;
 }
