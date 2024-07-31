@@ -20,6 +20,7 @@ background-color: var(--cor-de-fundo);
 }
 .conteudo1 p{
     color: #FFFFFF;
+    padding: 40px 5px;
 }
 .conteudo1 img{
     position: absolute;
@@ -27,6 +28,7 @@ background-color: var(--cor-de-fundo);
     bottom: 120px;
 }
 .conteudo2{
+    position: relative;
     background-color: black;
     width: 273;
     height: 201;
