@@ -38,3 +38,7 @@ background-color: var(--cor-de-fundo);
     left: 100;
     bottom: 50;
 }
+.conteudo2 p{
+    color: white;
+    padding: 50px 10px;
+}
