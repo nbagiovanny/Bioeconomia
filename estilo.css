@@ -52,3 +52,8 @@ background-color: var(--cor-de-fundo);
     margin-left: 12px;
     line-height: 20px;
 }
+.conteudo3 img{
+    position: absolute;
+    left: 513px;
+    bottom: 50px;
+}
