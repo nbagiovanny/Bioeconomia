@@ -61,3 +61,11 @@ background-color: var(--cor-de-fundo);
     color: white;
     padding: 5 ;
 }
+.conteudo4{
+    position: relative;
+    background-color: #85927B;
+    width: 418px;
+    height: 211px;
+    margin-left: 6px;
+    line-height: 20;
+}
