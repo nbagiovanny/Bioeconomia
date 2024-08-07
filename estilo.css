@@ -76,3 +76,8 @@ background-color: var(--cor-de-fundo);
     border-radius: 20px;
     height: 200px;
 }
+.conteudo4 img{
+position: relative;
+left: 200px;
+bottom: 130px;
+}
