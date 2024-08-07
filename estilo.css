@@ -79,12 +79,12 @@ background-color: var(--cor-de-fundo);
     height: 200px;
 }
 .conteudo4 img{
-position: relative;
+position: absolute;
 left: 250px;
 bottom: 100px;
 }
 .conteudo4 p{
-    color: #2B0C0C;
+    color: #ffffff;
     padding: 5px;
 }
 .conteudo4 h2{
