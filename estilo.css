@@ -71,9 +71,10 @@ background-color: var(--cor-de-fundo);
 }
 .conteudo4{
     width: 92%;
+    margin-top: 100px;
     background-color: #85927B;
     margin-left: 20px;
-    border-radius: 20px;
+    border-radius: 30px;
     height: 200px;
 }
 .conteudo4 img{
