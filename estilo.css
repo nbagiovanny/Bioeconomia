@@ -70,5 +70,8 @@ background-color: var(--cor-de-fundo);
     padding: 5 ;
 }
 .conteudo4{
-    
+    width: 90%;
+    margin-left: 20px;
+    border-radius: 20px;
+    height: 189px;
 }
