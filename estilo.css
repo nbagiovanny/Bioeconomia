@@ -70,6 +70,7 @@ background-color: var(--cor-de-fundo);
     padding: 5 ;
 }
 .conteudo4{
+    position: relative;
     width: 92%;
     margin-top: 100px;
     background-color: #85927B;
@@ -85,4 +86,9 @@ bottom: 100px;
 .conteudo4 p{
     color: #2B0C0C;
     padding: 5px;
+}
+.conteudo4 h2{
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 10px;
 }
