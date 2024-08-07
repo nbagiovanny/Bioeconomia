@@ -79,6 +79,10 @@ background-color: var(--cor-de-fundo);
 }
 .conteudo4 img{
 position: relative;
-left: 200px;
-bottom: 130px;
+left: 250px;
+bottom: 100px;
+}
+.conteudo4 p{
+    color: #2B0C0C;
+    padding: 5;
 }
