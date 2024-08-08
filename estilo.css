@@ -81,7 +81,7 @@ background-color: var(--cor-de-fundo);
 .conteudo4 img{
 position: absolute;
 left: 250px;
-bottom: 100px;
+bottom: 120px;
 }
 .conteudo4 p{
     color: #ffffff;
@@ -94,5 +94,5 @@ bottom: 100px;
 }
 .conteudo4 div{
     position: absolute;
-    top: 50px;
+    top: 40px;
 }
